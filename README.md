@@ -40,3 +40,13 @@ include <bits.stdc++20>
 
 and you are good to go 
 
+
+
+
+
+Now here all the files are named with there code name on Code Chef platform 
+there are basic questions and also some advance question every time I solve a question and my rank goes higher I will be sharing more and more advanced code ...!
+
+
+let's take a target  to reach provisional rating of 2000 this year today is 14-09-2022.
+
